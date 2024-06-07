@@ -1,0 +1,4 @@
+../Core/Src/led_display.c:15:6:displayNumber	16	static
+../Core/Src/led_display.c:119:6:displayLED	16	static
+../Core/Src/led_display.c:167:6:displayController	8	static
+../Core/Src/led_display.c:196:6:resetIndexLED	4	static

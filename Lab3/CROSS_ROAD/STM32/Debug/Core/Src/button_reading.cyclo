@@ -1,0 +1,3 @@
+../Core/Src/button_reading.c:21:6:buttonReading	9
+../Core/Src/button_reading.c:58:15:pressedButton	3
+../Core/Src/button_reading.c:63:15:holdingButton	3

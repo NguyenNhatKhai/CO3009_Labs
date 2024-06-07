@@ -1,0 +1,8 @@
+../Core/Src/mode_control.c:19:6:setDurationValue	16	static
+../Core/Src/mode_control.c:22:5:getDurationValue	16	static
+../Core/Src/mode_control.c:25:6:setDisplayValue	16	static
+../Core/Src/mode_control.c:28:5:getDisplayValue	16	static
+../Core/Src/mode_control.c:34:6:resetCounterBuffer1	16	static
+../Core/Src/mode_control.c:39:6:resetCounterBuffer2	16	static
+../Core/Src/mode_control.c:44:6:resetCounterBuffer	8	static
+../Core/Src/mode_control.c:50:6:dataProcessing	8	static

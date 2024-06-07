@@ -1,0 +1,16 @@
+../Core/Src/software_timer.c:22:6:setTimer0	1
+../Core/Src/software_timer.c:26:6:runTimer0	3
+../Core/Src/software_timer.c:32:15:finishedTimer0	1
+../Core/Src/software_timer.c:38:6:setTimer1	1
+../Core/Src/software_timer.c:42:6:runTimer1	3
+../Core/Src/software_timer.c:48:15:finishedTimer1	1
+../Core/Src/software_timer.c:54:6:setTimer2	1
+../Core/Src/software_timer.c:58:6:runTimer2	3
+../Core/Src/software_timer.c:64:15:finishedTimer2	1
+../Core/Src/software_timer.c:70:6:setTimer3	1
+../Core/Src/software_timer.c:74:6:runTimer3	3
+../Core/Src/software_timer.c:80:15:finishedTimer3	1
+../Core/Src/software_timer.c:86:6:setTimer4	1
+../Core/Src/software_timer.c:90:6:runTimer4	3
+../Core/Src/software_timer.c:96:15:finishedTimer4	1
+../Core/Src/software_timer.c:100:6:HAL_TIM_PeriodElapsedCallback	2

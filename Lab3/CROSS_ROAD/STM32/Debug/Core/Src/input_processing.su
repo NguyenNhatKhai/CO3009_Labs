@@ -1,0 +1,5 @@
+../Core/Src/input_processing.c:20:6:modeSelection	8	static
+../Core/Src/input_processing.c:65:6:increaseDurationValue	16	static
+../Core/Src/input_processing.c:104:6:decreaseDurationValue	16	static
+../Core/Src/input_processing.c:143:6:setupDurationValue	16	static
+../Core/Src/input_processing.c:165:15:getMode	4	static
